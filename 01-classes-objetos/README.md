@@ -1,6 +1,7 @@
 # 🧑‍💻 Exercício: Classes e Objetos em Java
 
-Este exercício é o primeiro da série dedicada ao estudo da **Orientação a Objetos com Java**. O objetivo é entender como declarar uma classe, definir atributos, criar métodos e instanciar objetos.
+Este exercício é o primeiro da série dedicada ao estudo da **Orientação a Objetos com Java**. O objetivo é entender como declarar uma classe, definir atributos, criar métodos e instanciar objetos. O seu código está disponível dentro diretório 
+**pessoa** para melhor organização e estudo.
 
 ---
 
